@@ -1,0 +1,24 @@
+{
+  "seasons": [
+    {
+      "subTitle": "SAISON DE",
+      "title": "L'AUTOMNE",
+      "backgroundImage": "https://www.societe-les-jardiniers.fr/wp-content/uploads/2022/07/comment-entretenir-son-jardin-en-automne-dans-le-var-83.jpg"
+    },
+    {
+      "subTitle": "SAISON DE",
+      "title": "L'ETE",
+      "backgroundImage": "https://lejardinplume.com/wp-content/uploads/2015/05/MG_1885.jpg"
+    },
+    {
+      "subTitle": "SAISON DE",
+      "title": "L'HIVER",
+      "backgroundImage": "https://www.promessedefleurs.com/blogwp/wp-content/uploads/2017/05/01-2-3-4-5-Scene-Cornus-and-Salix-underplanted-with-Chionodoxa-forbesii-Cambridge-Boatnical-Gardens-Credit-1.jpg"
+    },
+    {
+      "subTitle": "SAISON DU",
+      "title": "PRINTEMPS",
+      "backgroundImage": "https://www.lelievre.fr/wp-content/uploads/2018/06/Jardin1-1.jpg"
+    }
+  ]
+}
