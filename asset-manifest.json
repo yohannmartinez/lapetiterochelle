@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lapetiterochelle/static/css/main.2ebaf717.css",
+    "main.js": "/lapetiterochelle/static/js/main.16b8f6bd.js",
+    "static/js/787.87b59be3.chunk.js": "/lapetiterochelle/static/js/787.87b59be3.chunk.js",
+    "static/media/Canela-Bold-Trial.otf": "/lapetiterochelle/static/media/Canela-Bold-Trial.0f959143edb0ea44a249.otf",
+    "static/media/Canela-Medium-Trial.otf": "/lapetiterochelle/static/media/Canela-Medium-Trial.ab0c2d9df9606c9a9d4f.otf",
+    "static/media/Canela-Regular-Trial.otf": "/lapetiterochelle/static/media/Canela-Regular-Trial.edc32bd0aadc5ef6691b.otf",
+    "static/media/logo.svg": "/lapetiterochelle/static/media/logo.b8ae7f2adee8ea3b616e939b4da1a5fa.svg",
+    "static/media/scroll.svg": "/lapetiterochelle/static/media/scroll.8fc4348b64c207de965e752011f16a11.svg",
+    "static/media/arrowDown.svg": "/lapetiterochelle/static/media/arrowDown.15817ce39955c45f3f86435b733198dc.svg",
+    "index.html": "/lapetiterochelle/index.html",
+    "main.2ebaf717.css.map": "/lapetiterochelle/static/css/main.2ebaf717.css.map",
+    "main.16b8f6bd.js.map": "/lapetiterochelle/static/js/main.16b8f6bd.js.map",
+    "787.87b59be3.chunk.js.map": "/lapetiterochelle/static/js/787.87b59be3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ebaf717.css",
+    "static/js/main.16b8f6bd.js"
+  ]
+}
